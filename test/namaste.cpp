@@ -2,4 +2,4 @@
 
 using namespace std;
 
-int main() { cout << "namaste chai from scripter"; }
+int main() { cout << "namaste chai from scripter" << endl; }
